@@ -4,7 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="H:/My Documents/GitHub/exploration/lib/jar/lwjgl.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="H:/My Documents/GitHub/exploration/lib/native/windows"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="exploration/lib/native/windows/x64"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>

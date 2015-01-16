@@ -4,5 +4,6 @@ import org.lwjgl.glfw.*;
 
 public class Exploration {
 	public static void main(String[] args) {
+		GLFW.glfwGetTime();
 	}
 }
